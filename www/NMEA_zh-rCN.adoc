@@ -221,7 +221,7 @@ LC -- Loran-C是一个以前由许多政府（美国、加拿大、俄罗斯等�
 
 请注意，由于较新版本的标准已淘汰，某些发言者ID仍可能被旧设备发射。GPSD项目可能支持它们。
 
-.Big list of talker IDs
+.Talker ID大列表
 |================================================================
 |AB | 独立 AIS 基站
 |AD | 从属 AIS 基站
@@ -326,7 +326,7 @@ LC -- Loran-C是一个以前由许多政府（美国、加拿大、俄罗斯等�
 |ZV | 时间保持器 - 无线更新，WWV 或 WWVH
 |================================================================
 
-The canonical list of Talkers is available at <<TALKERS>> .
+发话者的规范列表可在<<TALKERS>>获取。
 
 == 卫星 ID
 
@@ -576,7 +576,7 @@ WPTNME 是航点名称。
  $--ALM,x.x,x.x,xx,x.x,hh,hhhh,hh,hhhh,hhhh,hhhhhh,hhhhhh,hhhhhh,hhhhhh,hhh,hhh*hh<CR><LF>
 ------------------------------------------------------------------------------
 
-Field Number:
+字段编号：
 
 1. 消息总数
 2. 句子序号
